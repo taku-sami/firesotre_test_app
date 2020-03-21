@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "381558088496",
+    "firebase_url": "https://firestore-test-app-30b51.firebaseio.com",
+    "project_id": "firestore-test-app-30b51",
+    "storage_bucket": "firestore-test-app-30b51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381558088496:android:02548dbf057dd473381ef5",
+        "android_client_info": {
+          "package_name": "com.takuyahara.firesotretestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381558088496-oehcbmbead598ui9i9g2e5cds6an3896.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIQWI8sLHyaYb9W750bVn9n4ihuOxSt5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381558088496-oehcbmbead598ui9i9g2e5cds6an3896.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
